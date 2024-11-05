@@ -7,11 +7,11 @@
       Try it, it's magic!
     </button>
 
-    <img src="/assets/images/character-1.svg" alt="" class="w-[120px] h-[120px] absolute left-1/2 -translate-x-128 top-1/5" />
-    <img src="/assets/images/character-2.svg" alt="" class="w-[120px] h-[120px] absolute left-1/2 translate-x-116 top-1/3" />
+    <img src="/assets/images/character-1.png" alt="" class="w-[120px] h-[120px] absolute left-1/2 -translate-x-128 top-1/5" />
+    <img src="/assets/images/character-2.png" alt="" class="w-[120px] h-[120px] absolute left-1/2 translate-x-116 top-1/3" />
   </section>
 
-  <section class="bg-[#FAFAFA] rounded-4 overflow-clip min-h-50em relative">
+  <section id="features" class="bg-[#FAFAFA] rounded-4 overflow-clip min-h-50em relative">
     <div class="flex justify-between space-x-8 py-12 px-8">
       <div class="w-1/3 p-6 rounded-lg flex items-center justify-center">
         <img src="/assets/images/die-one.svg" alt="die-one" class="mr-4">
@@ -34,7 +34,7 @@
         <div>
           <h2 class="text-xl font-medium mb-2 line-height-4">
             Vague or Balanced 
-            <span class="absolute ml-2 -mt-1 px-1 py-0.4 text-sm bg-[#F0EEED] text-color-[#050505] rounded-1">Coming Very Soon</span>
+            <span class="absolute ml-2 -mt-1 px-1 py-0.4 text-sm bg-[#F0EEED] text-color-[#050505] rounded-1">Soon</span>
           </h2>
           <p class="text-gray-600">Align your headings in the center for a clean look that stands out</p>
         </div>
@@ -42,7 +42,7 @@
     </div>
 
     <img 
-      src="/assets/images/styled-pages.svg" 
+      src="/assets/images/styled-pages.png" 
       alt="styled pages" srcset="" 
       class="mx-auto mt-8 right-40 bottom-18 scale-130"
     >
