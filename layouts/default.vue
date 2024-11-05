@@ -18,9 +18,9 @@
             </ul>
           </nav>
         </div>
-        <button class="bg-[#121212] hover:bg-[#333333] text-white py-2 px-4 rounded-12">
+        <UButton to="https://cutt.ly/MeFLNZqu" class="bg-[#121212] hover:bg-[#333333] text-white py-2 px-4 rounded-12">
           Download on Chrome
-        </button>
+        </UButton>
       </div>
     </header>
     <main class="flex-grow p-6 md:p-8 lg:p-10">
