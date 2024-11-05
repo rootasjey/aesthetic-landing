@@ -3,8 +3,8 @@
     <h1 class="text-[70px] font-700 mb-4 line-height-20 tracking-[-0.6px]">Notion, Styled.</h1>
     <p class="text-[21px] font-400 text-[#808080] mb-8">Elevate your Notion visual journey with <br/> stylish, customizable heading designs
     </p>
-    <UButton to="https://cutt.ly/MeFLNZqu" class="bg-black hover:bg-[#1983F9] text-white text-16px px-20px pt-10px pb-12px font-600 rounded-8px">
-      Try it, it's magic!
+    <UButton to="https://cutt.ly/MeFLNZqu" class="bg-black hover:bg-[#1983F9] text-16px px-20px pt-10px pb-12px font-600 rounded-8px">
+      <span class="text-white">Try it, it's magic!</span>
     </UButton>
 
     <img src="/assets/images/character-1.png" alt="" class="w-[120px] h-[120px] absolute left-1/2 -translate-x-128 top-1/5" />
