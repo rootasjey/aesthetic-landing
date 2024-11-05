@@ -4,21 +4,27 @@
       <div class="bg-[#F6F5F4] text-center text-sm py-4">
         <span>We just launched on <b>Product Hunt</b></span>
       </div>
-      <div class="px-8 p-4 mx-auto flex justify-between items-center">
+      <div class="px-8 p-4 mx-auto flex justify-center sm:justify-between items-center">
         <div class="flex items-center">
           <ULink href="/">
-          <img src="/assets/images/app-icon/aesthetic-logo-black.png" alt="aesthetic" class="h-8 mt-1">
+            <img 
+              src="/assets/images/app-icon/aesthetic-logo-black.png" 
+              alt="aesthetic" 
+              class="h-8 mt-1 hidden sm:block">
           </ULink>
 
-          <nav class="ml-8">
+          <nav class="sm:ml-8">
             <ul class="flex space-x-4 text-gray-600 font-semibold">
-              <li><a href="#features" class="hover:text-black">Features</a></li>
+              <li><a href="/#features" class="hover:text-black">Features</a></li>
               <li><a href="/checkout" class="hover:text-black">Pricing</a></li>
               <li><s>Q&A</s></li>
             </ul>
           </nav>
         </div>
-        <UButton to="https://cutt.ly/MeFLNZqu" class="bg-[#121212] hover:bg-[#333333] text-white py-2 px-4 rounded-12">
+        <UButton 
+          to="https://cutt.ly/MeFLNZqu" 
+          target="_blank" 
+          class="bg-[#121212] hover:bg-[#333333] text-white py-2 px-4 rounded-12 hidden sm:block">
           Download on Chrome
         </UButton>
       </div>
@@ -30,16 +36,18 @@
     <footer class="py-0 mb-12">
       <div class="container mx-auto text-center mb-6">
         <div class="flex justify-center items-center text-[20px] pt-[80px] pb-[72px] gap-[17px] font-600">
-          <ULink href="https://cutt.ly/MeFLNZqu">
+          <ULink href="https://cutt.ly/MeFLNZqu" target="_blank">
             <span class="px-6 py-1 bg-[#FAFAFA] rounded-8 flex items-center">review <img class="ml-[10px] mt-[2px]" src="/assets/images/arrow-top-right.svg" /></span>
           </ULink>
 
-          <ULink href="https://cutt.ly/OeFLLGiX">
+          <ULink href="https://cutt.ly/OeFLLGiX" target="_blank">
             <span class="px-6 py-1 bg-[#FAFAFA] rounded-8 flex items-center">help center <img class="ml-[10px] mt-[2px]" src="/assets/images/arrow-top-right.svg" /></span>
           </ULink>
         </div>
 
-        <img src="/assets/images/app-icon/aesthetic-logo-color.png" alt="aesthetic" class="h-20 mx-auto">
+        <ULink to="/">
+          <img src="/assets/images/app-icon/aesthetic-logo-color.png" alt="aesthetic" class="h-20 mx-auto">
+        </ULink>
         <!-- <p class="text-gray-600">© 2023 Aesthetic. All rights reserved.</p> -->
       </div>
     </footer>
