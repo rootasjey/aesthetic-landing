@@ -21,7 +21,7 @@
 
   <section id="features" class="bg-[#FAFAFA] rounded-4 overflow-clip sm:min-h-50em relative">
     <div class="flex flex-col gap-6 sm:gap-0 sm:flex-row justify-between sm:space-x-8 p-4 pt-8 sm:py-12 sm:px-8">
-      <div class="sm:w-1/3 sm:p-6 rounded-lg flex items-center justify-center">
+      <div class="sm:w-1/3 sm:p-6 rounded-lg flex items-start sm:justify-center">
         <img src="/assets/images/die-one.svg" alt="die-one" class="mr-4">
         <div>
           <h2 class="text-4 sm:text-xl font-medium mb-2 line-height-2 sm:line-height-4">Curved or Shaped</h2>
@@ -29,7 +29,7 @@
         </div>
       </div>
 
-      <div class="sm:w-1/3 sm:p-6 rounded-lg flex items-center justify-center">
+      <div class="sm:w-1/3 sm:p-6 rounded-lg flex items-start sm:justify-center">
         <img src="/assets/images/double-square.svg" alt="double-square" class="mr-4">
         <div>
           <h2 class="text-4 sm:text-xl font-medium mb-2 line-height-4">Solid or Dashed</h2>
@@ -37,7 +37,7 @@
         </div>
       </div>
 
-      <div class="sm:w-1/3 sm:p-6 rounded-lg flex items-center justify-center">
+      <div class="sm:w-1/3 sm:p-6 rounded-lg flex items-start sm:justify-center">
         <img src="/assets/images/square-paragraph.svg" alt="square-paragraph" class="mr-4">
         <div>
           <h2 class="text-4 sm:text-xl font-medium mb-2 line-height-4">

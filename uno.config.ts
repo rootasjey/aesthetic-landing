@@ -1,12 +1,15 @@
 import presetUno from '@unocss/preset-uno'
 import presetWebFonts from '@unocss/preset-web-fonts'
-import { defineConfig } from 'unocss'
+import { defineConfig, presetIcons } from 'unocss'
 import config from '@una-ui/nuxt/una.config'
 
 export default defineConfig({
   ...config,
   presets: [
     presetUno(),
+    presetIcons({
+      warn: true,
+    }),
     presetWebFonts({
       provider: 'fontshare',
       fonts: {
