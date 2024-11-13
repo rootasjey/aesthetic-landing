@@ -35,7 +35,7 @@
 
     <footer class="py-0 mb-12">
       <div class="container mx-auto text-center mb-6">
-        <div class="flex justify-center items-center text-[20px] pt-[80px] pb-[72px] gap-[17px] font-600">
+        <div class="flex justify-center items-center text-[20px] pt-[40px] pb-[72px] gap-[17px] font-600">
           <ULink href="https://cutt.ly/MeFLNZqu" target="_blank">
             <span class="px-6 py-1 bg-[#FAFAFA] rounded-8 flex items-center">review <img class="ml-[10px] mt-[2px]" src="/assets/images/arrow-top-right.svg" /></span>
           </ULink>

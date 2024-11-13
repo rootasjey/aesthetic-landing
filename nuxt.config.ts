@@ -12,11 +12,7 @@ export default defineNuxtConfig({
   },
   compatibilityDate: '2024-04-03',
   devtools: { enabled: false },
-  modules: [
-    '@unocss/nuxt', 
-    '@nuxtjs/color-mode',
-    '@una-ui/nuxt',
-  ],
+  modules: ['@unocss/nuxt', '@nuxtjs/color-mode', '@una-ui/nuxt', ],
   routeRules: {
     '/': { prerender: true },
     '/checkout': { swr: 3600 },

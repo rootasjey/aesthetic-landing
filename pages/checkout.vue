@@ -20,7 +20,7 @@
       </div>
       <hr class="my-4" />
 
-      <img src="/assets/images/styled-pages.png" alt="illustration" class="w-full mb-4">
+      <img src="/assets/images/aesthtetic-styled-pages.png" alt="illustration" class="w-full mb-4">
       <h1 class="font-600 text-5 mb-2">aesthetic ⁺</h1>
       <h3 class="opacity-50 text-[14px]">✔️ Elevate your Notion visual journey with stylish, customizable heading designs</h3>
     </header>
