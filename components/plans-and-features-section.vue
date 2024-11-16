@@ -5,7 +5,7 @@
     <img 
       src="/assets/images/character-3.png" 
       alt="character-3.png" 
-      class="w-[120px] h-[120px] absolute left-1/2 translate-x-86 top-1/3 hidden sm:block" 
+      class="w-[140px] h-[140px] absolute left-1/2 translate-x-106 top-1/3 hidden sm:block" 
     />
 
     <div class="mt-8">
@@ -47,6 +47,11 @@
             <td class="p-4 font-500">Save and keep my style</td>
             <td class="p-4">✗</td>
             <td class="p-4">✓</td>
+          </tr>
+          <tr class="border-b">
+            <td class="p-4 font-500">Price</td>
+            <td class="p-4 font-600">$0</td>
+            <td class="p-4 font-600">$5.00</td>
           </tr>
         </tbody>
       </table>

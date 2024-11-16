@@ -7,7 +7,7 @@
     <img 
       src="/assets/images/character-4.png" 
       alt="character-4.png" 
-      class="w-[120px] h-[120px] absolute left-1/2 -translate-x-116 top-1/3 hidden sm:block" 
+      class="w-[140px] h-[140px] absolute left-1/2 -translate-x-146 top-1/3 hidden sm:block" 
     />
 
     <hr class="w-604px mx-auto mt-8" />

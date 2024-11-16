@@ -11,7 +11,7 @@
     <UButton 
       to="https://cutt.ly/MeFLNZqu" 
       target="_blank" 
-      class="bg-black hover:bg-[#1983F9] text-16px px-20px pt-10px pb-12px font-600 rounded-8px">
+      class="bg-black hover:bg-[#1983F9] text-16px px-20px pt-10px pb-12px font-600 rounded-8px transition-all">
       <span class="text-white">Try it, it's magic!</span>
     </UButton>
 

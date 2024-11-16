@@ -16,8 +16,9 @@
           <nav class="sm:ml-8">
             <ul class="flex space-x-4 text-gray-600 font-semibold">
               <li><a href="/#features" class="hover:text-black">Features</a></li>
-              <li><a href="/checkout" class="hover:text-black">Pricing</a></li>
-              <li><s>Q&A</s></li>
+              <li><a href="/#plans-and-features" class="hover:text-black">Pricing</a></li>
+              <li><a href="/#questions-and-answers" class="hover:text-black">Q&A</a></li>
+              <li><a href="https://www.notion.so/templates/mindful-toolkit" target="_blank" class="hover:text-black">Gallery</a></li>
             </ul>
           </nav>
         </div>
