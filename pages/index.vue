@@ -3,6 +3,7 @@
   <FeaturesSection />
   <PlansAndFeaturesSection />
   <QuestionsAndAnswersSection />
+  <VideoSection />
 </template>
 
 <script setup>

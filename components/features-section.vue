@@ -4,27 +4,27 @@
       <div class="sm:w-1/3 sm:p-6 rounded-lg flex items-center sm:justify-center">
         <img src="/assets/images/die-one.svg" width="66px" alt="die-one" class="mr-4">
         <div>
-          <h2 class="text-4 sm:text-xl font-medium mb-0 line-height-4">Curved or Shaped</h2>
-          <p class="text-gray-600 text-3 sm:text-4.2">Style Your Titles with Custom <br/> Border Radius</p>
+          <h2 class="text-3 sm:text-4.2 font-medium mb-0 line-height-4">Curved or Shaped</h2>
+          <p class="text-gray-600 text-2.7 sm:text-3.8">Style Your Titles with Custom <br/> Border Radius</p>
         </div>
       </div>
 
       <div class="sm:w-1/3 sm:p-6 rounded-lg flex items-center sm:justify-center">
         <img src="/assets/images/double-square.svg" width="66px" alt="double-square" class="mr-4">
         <div>
-          <h2 class="text-4 sm:text-xl font-medium line-height-4">Solid or Dashed</h2>
-          <p class="text-gray-600 text-3 sm:text-4.2">Personalize your headings with <br/>borders that match your mood</p>
+          <h2 class="text-3 sm:text-4.2 font-medium line-height-4">Solid or Dashed</h2>
+          <p class="text-gray-600 text-2.7 sm:text-3.8">Personalize your headings with <br/>borders that match your mood</p>
         </div>
       </div>
 
       <div class="sm:w-1/3 sm:p-6 rounded-lg flex items-center sm:justify-center">
         <img src="/assets/images/square-paragraph.svg" width="66px" alt="square-paragraph" class="mr-4">
         <div>
-          <h2 class="text-4 sm:text-xl font-medium line-height-4 flex items-center">
+          <h2 class="text-3 sm:text-4.2 font-medium line-height-4 flex items-center">
             <span>Vague or Balanced </span>
             <span class="ml-3 -mt-1 px-1 py-0.4 text-sm bg-[#F0EEED] text-color-[#050505] rounded-1">Soon</span>
           </h2>
-          <p class="text-gray-600 text-3 sm:text-4.2">Align your headings in the center <br/>for a clean look</p>
+          <p class="text-gray-600 text-2.7 sm:text-3.8">Align your headings in the center <br/>for a clean look</p>
         </div>
       </div>
     </div>

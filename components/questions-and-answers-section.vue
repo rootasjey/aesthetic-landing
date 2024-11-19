@@ -27,19 +27,19 @@ const items = [
   },
   {
     label: 'How do I install and use the extension?',
-    content: "Install it from the <u><a href='https://cutt.ly/MeFLNZqu' target='_blank'>Chrome Web Store</a></u>. Once added, click on the extension icon in your browser’s toolbar to access customization options for your Notion pages.",
+    content: "Install it from the <u><a href='https://chrome.google.com/webstore/detail/npgghjedpchajflknnbngajkjkdhncdo' target='_blank'>Chrome Web Store</a></u>. Once added, click on the extension icon in your browser’s toolbar to access customization options for your Notion pages.",
   },
   {
-    label: 'Is the extension free?',
-    content: 'Yes, the extension is free to use. However, styles cannot be saved and will need to be re-applied each time you open a new session. To enable saved styles and access advanced features, consider upgrading to the <u>aesthetic Plus</u> version.',
+    label: "Is the extension free?",
+    content: "Yes, the extension is free to use. However, styles cannot be saved and will need to be re-applied each time you open a new session. To enable saved styles and access advanced features, consider upgrading to the <u>aesthetic Plus</u> version.",
   },
   {
-    label: 'Can others see my customizations on shared Notion pages?',
-    content: 'No, customizations are only visible on your own browser and won’t affect how others see shared pages.',
+    label: "Can others see my customizations on shared Notion pages?",
+    content: "No, customizations are only visible on your own browser and won’t affect how others see shared pages.",
   },
   {
-    label: 'How can I get help or suggest features?',
-    content: 'Contact us through the help center. We’re happy to help and always open to suggestions!',
+    label: "How can I get help or suggest features?",
+    content: "Contact us through the <u><a href='https://cutt.ly/OeFLLGiX'>help center</a></u>. We’re happy to help and always open to suggestions!",
   },
 ]
 </script>
