@@ -5,7 +5,7 @@
         @click="toggleItem(index)"
         class="flex justify-between items-center p-4 cursor-pointer hover:bg-gray-50 transition-all rounded-3"
       >
-        <span class="font-500">{{ item.label }}</span>
+        <span class="font-500 mr-4">{{ item.label }}</span>
         <span 
           class="transform transition-transform duration-200 text-6" 
           :class="{ 'rotate-45': openItems[index], 'mr--0.2': openItems[index] }"

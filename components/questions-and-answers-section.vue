@@ -1,6 +1,6 @@
 <template>
-  <section id="questions-and-answers" class="rounded-4 overflow-clip px-12 pt-12 mt-16 relative">
-    <h2 class="text-45px font-600 text-center tracking-[-1px]">
+  <section id="questions-and-answers" class="rounded-4 overflow-clip md:px-12 pt-12 mt-2 md:mt-16 relative">
+    <h2 class="text-32px md:text-45px font-600 text-center tracking-[-1px]">
       Questions & answers
     </h2>
 
@@ -12,7 +12,7 @@
 
     <hr class="w-604px mx-auto mt-8" />
     <Accordion
-      class="w-604px mx-auto"
+      class="md:w-604px mx-auto"
       :items="items"
     />
   </section> 
@@ -26,7 +26,7 @@ const items = [
     defaultOpen: true,
   },
   {
-    label: 'How do I install and use the extension?',
+    label: 'How do I install and use it?',
     content: "Install it from the <u><a href='https://chrome.google.com/webstore/detail/npgghjedpchajflknnbngajkjkdhncdo' target='_blank'>Chrome Web Store</a></u>. Once added, click on the extension icon in your browser’s toolbar to access customization options for your Notion pages.",
   },
   {

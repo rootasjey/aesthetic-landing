@@ -1,5 +1,6 @@
 <template>
-  <div v-if="isVisible" class="fixed bottom-4 right-4 w-400px h-300px bg-#eee rounded-2xl shadow-2xl">
+  <div v-if="isVisible" 
+    class="fixed bottom-4 right-4 w-90% h-200px sm:w-400px sm:h-300px bg-#eee rounded-2xl shadow-2xl">
     <iframe src="https://www.loom.com/embed/af628c9bc6264fa08406ffaaeeaca2f6?sid=1957f438-891e-4718-afe4-f4e9f27c816a"
       frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;">

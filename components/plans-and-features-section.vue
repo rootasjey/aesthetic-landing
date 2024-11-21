@@ -1,6 +1,8 @@
 <template>
-  <section id="plans-and-features" class="bg-[#FAFAFA] rounded-4 overflow-clip px-12 pt-12 pb-20 mt-16 relative">
-    <h2 class="text-45px font-600 text-center tracking-[-1px]">Plans and features</h2>
+  <section 
+    id="plans-and-features" 
+    class="bg-[#FAFAFA] rounded-4 overflow-clip pt-8 md:pt-12 md:mt-32 md:px-12 pb-12 md:pb-20 mt-16 relative">
+    <h2 class="text-32px md:text-45px font-600 text-center tracking-[-1px]">Plans and features</h2>
 
     <img 
       src="/assets/images/character-3.png" 
@@ -9,7 +11,7 @@
     />
 
     <div class="mt-8">
-      <table class="w-602px m-auto border-collapse">
+      <table class="md:w-602px m-auto border-collapse">
         <thead>
           <tr class="border-b">
             <th class="p-4 font-600 text-left text-[#808080]">Content</th>
@@ -19,39 +21,39 @@
         </thead>
         <tbody>
           <tr class="border-b">
-            <td class="p-4 font-500">Border</td>
+            <td class="p-4 font-500 text-14px md:text-16px">Border</td>
             <td class="p-4">✓</td>
             <td class="p-4">✓</td>
           </tr>
           <tr class="border-b">
-            <td class="p-4 font-500">Border style</td>
+            <td class="p-4 font-500 text-14px md:text-16px">Border style</td>
             <td class="p-4">✓</td>
             <td class="p-4">✓</td>
           </tr>
           <tr class="border-b">
-            <td class="p-4 font-500">Border radius</td>
+            <td class="p-4 font-500 text-14px md:text-16px">Border radius</td>
             <td class="p-4">✓</td>
             <td class="p-4">✓</td>
           </tr>
           <tr class="border-b">
-            <td class="p-4 font-500">Heading align</td>
-            <td class="p-4">Very soon</td>
-            <td class="p-4">Very soon</td>
+            <td class="p-4 font-500 text-14px md:text-16px">Heading align</td>
+            <td class="p-4 text-14px md:text-16px">Soon</td>
+            <td class="p-4 text-14px md:text-16px">Soon</td>
           </tr>
           <tr class="border-b">
-            <td class="p-4 font-500">Applicable on</td>
-            <td class="p-4">1 temporary page</td>
-            <td class="p-4">Unlimited</td>
+            <td class="p-4 font-500 text-14px md:text-16px">Applicable on</td>
+            <td class="p-4 text-14px md:text-16px">1 temporary page</td>
+            <td class="p-4 text-14px md:text-16px">Unlimited</td>
           </tr>
           <tr class="border-b">
-            <td class="p-4 font-500">Save and keep my style</td>
+            <td class="p-4 font-500 text-14px md:text-16px">Save and keep my style</td>
             <td class="p-4">✗</td>
             <td class="p-4">✓</td>
           </tr>
           <tr class="border-b">
-            <td class="p-4 font-500">Price</td>
-            <td class="p-4 font-600">$0</td>
-            <td class="p-4 font-600">$5.00</td>
+            <td class="p-4 font-500 text-14px md:text-16px">Price</td>
+            <td class="p-4 font-600 text-14px md:text-16px">$0</td>
+            <td class="p-4 font-600 text-14px md:text-16px">$5.00</td>
           </tr>
         </tbody>
       </table>
