@@ -2,7 +2,7 @@
   <div class="min-h-screen flex flex-col font-sans">
     <header class="bg-white">
       <div class="bg-[#F6F5F4] text-center text-sm py-4">
-        <span>We just launched on <b>Product Hunt</b></span>
+        <span>We just launched on <a target="_blank" href="https://www.producthunt.com/posts/aesthetic?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-aesthetic"><b>Product Hunt</b></a></span>
       </div>
       <div class="px-8 p-4 mx-auto flex justify-center sm:justify-between items-center">
         <div class="flex items-center">
