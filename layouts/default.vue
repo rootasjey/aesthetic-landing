@@ -2,14 +2,19 @@
   <div class="min-h-screen flex flex-col font-sans">
     <header class="bg-white">
       <div class="bg-[#F6F5F4] text-center text-sm py-4">
-        <span>We just launched on <a target="_blank" href="https://www.producthunt.com/posts/aesthetic?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-aesthetic"><b>Product Hunt</b></a></span>
+        <div class="flex flex-row justify-center items-center gap-1">We just launched on
+          <a target="_blank"
+            href="https://www.producthunt.com/posts/aesthetic?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-aesthetic">
+            <b>Product Hunt</b>
+          </a>
+          <ProducthuntLogo />
+        </div>
+        <span class="uppercase text-3 font-600">#3 Product of the week</span>
       </div>
       <div class="px-8 p-4 mx-auto flex justify-center sm:justify-between items-center">
         <div class="flex items-center">
           <ULink href="/">
-            <img 
-              src="/assets/images/app-icon/aesthetic-logo-black.png" 
-              alt="aesthetic" 
+            <img src="/assets/images/app-icon/aesthetic-logo-black.png" alt="aesthetic"
               class="h-8 mt-1 hidden sm:block">
           </ULink>
 
@@ -18,13 +23,12 @@
               <li><a href="/#features" class="hover:text-black">Features</a></li>
               <li><a href="/#plans-and-features" class="hover:text-black">Pricing</a></li>
               <li><a href="/#questions-and-answers" class="hover:text-black">Q&A</a></li>
-              <li><a href="https://www.notion.so/templates/mindful-toolkit" target="_blank" class="hover:text-black">Gallery</a></li>
+              <li><a href="https://www.notion.so/templates/mindful-toolkit" target="_blank"
+                  class="hover:text-black">Gallery</a></li>
             </ul>
           </nav>
         </div>
-        <UButton 
-          to="https://chrome.google.com/webstore/detail/npgghjedpchajflknnbngajkjkdhncdo" 
-          target="_blank" 
+        <UButton to="https://chrome.google.com/webstore/detail/npgghjedpchajflknnbngajkjkdhncdo" target="_blank"
           class="bg-[#121212] hover:bg-[#333333] text-white py-2 px-4 rounded-12 hidden sm:block">
           Download on Chrome
         </UButton>
@@ -38,11 +42,13 @@
       <div class="container mx-auto text-center mb-6">
         <div class="flex justify-center items-center text-[20px] pt-[40px] pb-[72px] gap-[17px] font-600">
           <ULink href="https://chrome.google.com/webstore/detail/npgghjedpchajflknnbngajkjkdhncdo" target="_blank">
-            <span class="px-6 py-1 bg-[#FAFAFA] rounded-8 flex items-center">review <img class="ml-[10px] mt-[2px]" src="/assets/images/arrow-top-right.svg" /></span>
+            <span class="px-6 py-1 bg-[#FAFAFA] rounded-8 flex items-center">review <img class="ml-[10px] mt-[2px]"
+                src="/assets/images/arrow-top-right.svg" /></span>
           </ULink>
 
           <ULink href="https://cutt.ly/OeFLLGiX" target="_blank">
-            <span class="px-6 py-1 bg-[#FAFAFA] rounded-8 flex items-center">help center <img class="ml-[10px] mt-[2px]" src="/assets/images/arrow-top-right.svg" /></span>
+            <span class="px-6 py-1 bg-[#FAFAFA] rounded-8 flex items-center">help center <img class="ml-[10px] mt-[2px]"
+                src="/assets/images/arrow-top-right.svg" /></span>
           </ULink>
         </div>
 
